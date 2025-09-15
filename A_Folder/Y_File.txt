@@ -5,4 +5,8 @@ new modification
 
 another modification
 
+<<<<<<< Updated upstream
 Tyler was here
+=======
+This is a change :)
+>>>>>>> Stashed changes
